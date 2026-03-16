@@ -6,3 +6,5 @@ its under Tools
 I use this for VRC so i can change the Parent materal shader and it changes all the other materials
 
 This automaticly clears exsiting parents before adding the new one so it wont break anything
+
+https://github.com/user-attachments/assets/1d528dce-84af-4fd8-bc93-98b9eaca006f
