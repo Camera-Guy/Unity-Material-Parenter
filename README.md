@@ -4,6 +4,7 @@ To parent alot of materials at once
 its under Tools
 
 I use this for VRC so i can change the Parent materal shader and it changes all the other materials
+But for some reason when i transfer from pc to quest project the sdk does not update the material shader in its list unless i clear the parent Yay VRC
 
 This automaticly clears exsiting parents before adding the new one so it wont break anything
 
